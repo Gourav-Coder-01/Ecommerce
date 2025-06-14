@@ -1,3 +1,4 @@
 # gkproject-demo
 my first project
-author - gourav kumar
+author - gourav bhai
+
